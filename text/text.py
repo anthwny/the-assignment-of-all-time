@@ -11,7 +11,6 @@ def main():
     bruh.write("lol")
     bruh.close()
     brainrot += 1
-    pass
 
 if __name__ == "__main__":
     main()
